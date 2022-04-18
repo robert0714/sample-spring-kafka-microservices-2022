@@ -3,3 +3,6 @@
 /order-service/target/
 /payment-service/target/
 /stock-service/target/
+.project
+.settings
+.classpath
